@@ -1,0 +1,102 @@
+export const colors = {
+  emerald: {
+    50: '#ECFDF5',
+    100: '#D1FAE5',
+    300: '#6EE7B7',
+    400: '#34D399',
+    500: '#10B981',
+    600: '#059669',
+    700: '#047857',
+    900: '#064E3B'
+  },
+  sky: {
+    300: '#7DD3FC',
+    400: '#38BDF8',
+    500: '#0EA5E9',
+    600: '#0284C7',
+    900: '#0C4A6E'
+  },
+  amber: {
+    300: '#FCD34D',
+    400: '#FBBF24',
+    500: '#F59E0B',
+    700: '#B45309',
+    900: '#78350F'
+  },
+  ruby: {
+    300: '#FCA5A5',
+    400: '#F87171',
+    500: '#EF4444',
+    600: '#DC2626',
+    900: '#7F1D1D'
+  },
+  slate: {
+    50: '#F8FAFC',
+    100: '#F1F5F9',
+    200: '#E2E8F0',
+    400: '#94A3B8',
+    600: '#475569',
+    700: '#334155',
+    800: '#1E293B',
+    900: '#0F172A'
+  },
+  neutral: {
+    900: '#000000',
+    100: '#FFFFFF',
+    400: '#A3A3A3'
+  },
+  light: {
+    primary: '#059669',
+    primaryDark: '#047857',
+    primaryLight: '#D1FAE5',
+    secondary: '#0EA5E9',
+    background: '#F8FAFC',
+    surface: '#FFFFFF',
+    surfaceVariant: '#F1F5F9',
+    textPrimary: '#0F172A',
+    textSecondary: '#475569',
+    textMuted: '#94A3B8',
+    border: '#E2E8F0',
+    error: '#EF4444',
+    errorLight: '#FEE2E2',
+    success: '#10B981',
+    successLight: '#D1FAE5',
+    warning: '#F59E0B',
+    warningLight: '#FEF3C7',
+    card: '#FFFFFF',
+    shadow: 'rgba(15, 23, 42, 0.08)',
+    badgePrescription: '#8B5CF6',
+    badgeInStock: '#10B981',
+    badgeOutOfStock: '#EF4444',
+    bgPrimary: '#F8FAFC',
+    bgSecondary: '#FFFFFF',
+    bgTertiary: '#F1F5F9'
+  },
+  dark: {
+    primary: '#10B981',
+    primaryDark: '#059669',
+    primaryLight: '#064E3B',
+    secondary: '#38BDF8',
+    background: '#0F172A',
+    surface: '#1E293B',
+    surfaceVariant: '#334155',
+    textPrimary: '#F8FAFC',
+    textSecondary: '#CBD5E1',
+    textMuted: '#64748B',
+    border: '#334155',
+    error: '#F87171',
+    errorLight: '#451A1A',
+    success: '#34D399',
+    successLight: '#064E3B',
+    warning: '#FBBF24',
+    warningLight: '#451A03',
+    card: '#1E293B',
+    shadow: 'rgba(0, 0, 0, 0.35)',
+    badgePrescription: '#A78BFA',
+    badgeInStock: '#34D399',
+    badgeOutOfStock: '#F87171',
+    bgPrimary: '#0F172A',
+    bgSecondary: '#1E293B',
+    bgTertiary: '#334155'
+  }
+};

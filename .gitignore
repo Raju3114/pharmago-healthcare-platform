@@ -1,0 +1,33 @@
+# Maven / Java build outputs
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.rar
+
+# IDE & Editor files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.kilo/
+.vscode/
+
+# Local configuration & secrets
+*.env
+application-local.yml
+application-dev.yml
+
+# Uploaded media files
+uploads/
+uploads/prescriptions/
+
+# Log files
+*.log
+logs/
+
+# Operating System files
+.DS_Store
+Thumbs.db
